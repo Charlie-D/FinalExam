@@ -1,0 +1,48 @@
+.root {
+	-fx-background-color:white;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+#txtSaveEachMonth{
+  -fx-background-color: green;
+}
+
+#txtYearsToWork{
+  -fx-background-color: YELLOW;
+}
+
+#txtAnnualReturnWorking{
+  -fx-background-color: YELLOW;
+}
+
+#txtWhatYouNeedToSave{
+  -fx-background-color: green;
+}
+
+#txtMonthlySSI{
+  -fx-background-color: YELLOW;
+}
+
+#txtRequiredIncome{
+  -fx-background-color: YELLOW;
+}
+
+#txtAnnualReturnRetired{
+  -fx-background-color: YELLOW;
+}
+
+#txtYearsRetired{
+  -fx-background-color: YELLOW;
+}
+
+.button:hover {
+	-fx-background-color:black;
+	-fx-border-color:white;
+}
+
+.label:hover {
+	-fx-background-color:white;
+}
